@@ -1,0 +1,17 @@
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\bin\Debug\net6.0\Repository.dll
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\bin\Debug\net6.0\EmployeeApi.Contracts.dll
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\bin\Debug\net6.0\EmployeeApi.Entities.dll
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\bin\Debug\net6.0\EmployeeApi.Contracts.pdb
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\bin\Debug\net6.0\EmployeeApi.Entities.pdb
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\obj\Debug\net6.0\Repository.dll
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Harshani\Personal\Learning\GitHub\employee-api\EmployeeApi\Repository\obj\Debug\net6.0\ref\Repository.dll
