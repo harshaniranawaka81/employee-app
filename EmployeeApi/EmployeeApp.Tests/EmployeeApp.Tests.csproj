@@ -24,11 +24,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EmployeeApi.Business\EmployeeApp.Business.csproj" />
-    <ProjectReference Include="..\EmployeeApi.Contracts\EmployeeApp.Contracts.csproj" />
-    <ProjectReference Include="..\EmployeeApi.Entities\EmployeeApp.Entities.csproj" />
-    <ProjectReference Include="..\EmployeeApi.Repository\EmployeeApp.Repository.csproj" />
-    <ProjectReference Include="..\EmployeeApi\EmployeeApp.csproj" />
+    <ProjectReference Include="..\EmployeeApp.Business\EmployeeApp.Business.csproj" />
+    <ProjectReference Include="..\EmployeeApp.Contracts\EmployeeApp.Contracts.csproj" />
+    <ProjectReference Include="..\EmployeeApp.Entities\EmployeeApp.Entities.csproj" />
+    <ProjectReference Include="..\EmployeeApp.Repository\EmployeeApp.Repository.csproj" />
+    <ProjectReference Include="..\EmployeeApp\EmployeeApp.csproj" />
   </ItemGroup>
 
 </Project>

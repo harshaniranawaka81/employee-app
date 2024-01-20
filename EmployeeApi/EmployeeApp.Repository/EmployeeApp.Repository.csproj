@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EmployeeApi.Contracts\EmployeeApp.Contracts.csproj" />
-    <ProjectReference Include="..\EmployeeApi.Entities\EmployeeApp.Entities.csproj" />
+    <ProjectReference Include="..\EmployeeApp.Contracts\EmployeeApp.Contracts.csproj" />
+    <ProjectReference Include="..\EmployeeApp.Entities\EmployeeApp.Entities.csproj" />
   </ItemGroup>
 
 </Project>
