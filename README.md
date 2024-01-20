@@ -1,7 +1,12 @@
 # employee-api
+This is an ASP .NET Core Web API CRUD application and uses a local SQL Server instance to save information
 
-ASP .NET Core MVC/C#,
+ASP .NET Core Web API (.NET 6),
+C#,
 Entity Framework Core,
 Repository Pattern,
-Identity concepts,
-Filters
+AutoMapper,
+Middleware for exception handling,
+Filter example(results filter), FilterAttribute
+xUnit, Moq for unit tests
+
