@@ -39,7 +39,7 @@ namespace EmployeeApi.Extensions
             var connectionString = config["ConnectionStrings:DefaultConnection"];
             services.AddDbContext<EmployeeApiDbContext>(
                 options => options.UseSqlServer(connectionString, 
-                    b => b.MigrationsAssembly("EmployeeApi.Repository")));
+                    b => b.MigrationsAssembly("EmployeeApi")));
         }
 
         /// <summary>
@@ -67,9 +67,6 @@ namespace EmployeeApi.Extensions
             services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
             services.AddScoped<IEmployeeService, EmployeeService>();
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-
-            services.AddIdentity<User, IdentityRole>()
-                .AddEntityFrameworkStores<EmployeeApiDbContext>();
         }
 
     }

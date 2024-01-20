@@ -31,9 +31,9 @@ namespace EmployeeApi.Business.Middleware
             }
             catch (Exception ex)
             {
-                _logger.LogError("Exception", ex.Message);
-                _logger.LogError("Inner Exception", ex.InnerException?.Message);
-                _logger.LogError("Inner Exception", ex.StackTrace);
+                _logger.LogError("Exception {0}", ex.Message);
+                _logger.LogError("Inner Exception {0}", ex.InnerException?.Message);
+                _logger.LogError("Inner Exception {0}", ex.StackTrace);
                 await HandleExceptionAsync(httpContext, ex);
             }
         }

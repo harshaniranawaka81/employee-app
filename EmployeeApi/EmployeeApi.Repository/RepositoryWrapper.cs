@@ -5,18 +5,18 @@ namespace EmployeeApi.Repository
     public class RepositoryWrapper : IRepositoryWrapper
     {
         private readonly EmployeeApiDbContext _repoContext;
-        private IEmployeeRepository _employee;
+        private IEmployeeRepository? _employeeRepo;
 
         public IEmployeeRepository Employee
         {
             get
             {
-                if (_employee == null)
+                if (_employeeRepo == null)
                 {
-                    _employee = new EmployeeRepository(_repoContext);
+                    _employeeRepo = new EmployeeRepository(_repoContext);
                 }
 
-                return _employee;
+                return _employeeRepo;
             }
         }
 

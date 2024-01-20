@@ -3,13 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using EmployeeApi.Entities.Models;
-using EmployeeApi.Repository;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace EmployeeApi
 {
-    public class EmployeeApiDbContext : IdentityDbContext<User>
+    public class EmployeeApiDbContext : DbContext
     {
         public EmployeeApiDbContext (DbContextOptions<EmployeeApiDbContext> options)
             : base(options)
@@ -34,8 +32,6 @@ namespace EmployeeApi
 		        EmployeeName = "Sampath",
 		        Salary = 4000
 	        });
-
-            modelBuilder.ApplyConfiguration(new RoleConfiguration());
 
             base.OnModelCreating(modelBuilder);
 

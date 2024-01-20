@@ -33,7 +33,7 @@ namespace EmployeeApi.Controllers
 
             var employees = result.Value.ToList();
 
-            _logger.LogInformation("Successful: public async Task<IActionResult> Index()", employees);
+            _logger.LogInformation("Successful: public async Task<IActionResult> Index() No of employees: {0}", employees.Count);
 
             return result.Key switch
             {

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi\\EmployeeApi.csproj": {}
+    "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi\\EmployeeApi.csproj": {}
   },
   "projects": {
-    "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Business\\EmployeeApi.Business.csproj": {
+    "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Business\\EmployeeApi.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Business\\EmployeeApi.Business.csproj",
+        "projectUniqueName": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Business\\EmployeeApi.Business.csproj",
         "projectName": "EmployeeApi.Business",
-        "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Business\\EmployeeApi.Business.csproj",
-        "packagesPath": "C:\\Users\\HRANAWAKA\\.nuget\\packages\\",
-        "outputPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Business\\obj\\",
+        "projectPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Business\\EmployeeApi.Business.csproj",
+        "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HRANAWAKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,20 +26,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://end-ipas41.next-uk.next.loc/repository/NEXT-nuget-payments-group/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj": {
-                "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj"
+              "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj": {
+                "projectPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj"
               },
-              "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj": {
-                "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj"
+              "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj": {
+                "projectPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj"
               },
-              "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj": {
-                "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj"
+              "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj": {
+                "projectPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj"
               }
             }
           }
@@ -87,24 +87,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj": {
+    "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj",
+        "projectUniqueName": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj",
         "projectName": "EmployeeApi.Contracts",
-        "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj",
-        "packagesPath": "C:\\Users\\HRANAWAKA\\.nuget\\packages\\",
-        "outputPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\obj\\",
+        "projectPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj",
+        "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HRANAWAKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -113,14 +113,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://end-ipas41.next-uk.next.loc/repository/NEXT-nuget-payments-group/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj": {
-                "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj"
+              "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj": {
+                "projectPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj"
               }
             }
           }
@@ -150,24 +150,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj": {
+    "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj",
+        "projectUniqueName": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj",
         "projectName": "EmployeeApi.Entities",
-        "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj",
-        "packagesPath": "C:\\Users\\HRANAWAKA\\.nuget\\packages\\",
-        "outputPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\obj\\",
+        "projectPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj",
+        "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HRANAWAKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -176,7 +176,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://end-ipas41.next-uk.next.loc/repository/NEXT-nuget-payments-group/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -193,12 +193,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.22, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -215,24 +209,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj": {
+    "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj",
+        "projectUniqueName": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj",
         "projectName": "EmployeeApi.Repository",
-        "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj",
-        "packagesPath": "C:\\Users\\HRANAWAKA\\.nuget\\packages\\",
-        "outputPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\obj\\",
+        "projectPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj",
+        "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HRANAWAKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -241,17 +235,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://end-ipas41.next-uk.next.loc/repository/NEXT-nuget-payments-group/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj": {
-                "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj"
+              "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj": {
+                "projectPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj"
               },
-              "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj": {
-                "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj"
+              "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj": {
+                "projectPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj"
               }
             }
           }
@@ -266,10 +260,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.22, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.11, )"
@@ -277,6 +267,12 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
             }
           },
           "imports": [
@@ -295,24 +291,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi\\EmployeeApi.csproj": {
+    "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi\\EmployeeApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi\\EmployeeApi.csproj",
+        "projectUniqueName": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi\\EmployeeApi.csproj",
         "projectName": "EmployeeApi",
-        "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi\\EmployeeApi.csproj",
-        "packagesPath": "C:\\Users\\HRANAWAKA\\.nuget\\packages\\",
-        "outputPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi\\obj\\",
+        "projectPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi\\EmployeeApi.csproj",
+        "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HRANAWAKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -321,26 +317,23 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://end-ipas41.next-uk.next.loc/repository/NEXT-nuget-payments-group/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Business\\EmployeeApi.Business.csproj": {
-                "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Business\\EmployeeApi.Business.csproj"
+              "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Business\\EmployeeApi.Business.csproj": {
+                "projectPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Business\\EmployeeApi.Business.csproj"
               },
-              "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj": {
-                "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj"
+              "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj": {
+                "projectPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj"
               },
-              "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj": {
-                "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj"
+              "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj": {
+                "projectPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj"
               },
-              "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj": {
-                "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj"
-              },
-              "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\Repository\\Repository.csproj"
+              "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj": {
+                "projectPath": "C:\\Harshani\\Github\\employee-api\\EmployeeApi\\EmployeeApi.Repository\\EmployeeApi.Repository.csproj"
               }
             }
           }
@@ -355,10 +348,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.22, )"
-            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -393,83 +382,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\Repository\\Repository.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\Repository\\Repository.csproj",
-        "projectName": "Repository",
-        "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\HRANAWAKA\\.nuget\\packages\\",
-        "outputPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\Repository\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\HRANAWAKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://end-ipas41.next-uk.next.loc/repository/NEXT-nuget-payments-group/": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj": {
-                "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Contracts\\EmployeeApi.Contracts.csproj"
-              },
-              "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj": {
-                "projectPath": "C:\\Harshani\\Personal\\Learning\\GitHub\\employee-api\\EmployeeApi\\EmployeeApi.Entities\\EmployeeApi.Entities.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.11, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.11, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

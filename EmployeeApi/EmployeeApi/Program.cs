@@ -13,8 +13,7 @@ builder.Services.ConfigureServices();
 builder.Services.ConfigureDb(builder.Configuration);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews(config => 
-    config.Filters.Add(typeof(ExceptionHandlingFilter)));
+builder.Services.AddControllersWithViews();
 
 //Cross Origin Resource Sharing settings
 builder.Services.ConfigureCors();
