@@ -6,12 +6,12 @@ using System.Net;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
-using EmployeeApi.Entities.Models;
+using EmployeeApp.Entities.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 
 
-namespace EmployeeApi.Business.Middleware
+namespace EmployeeApp.Business.Middleware
 {
     public class ExceptionMiddleware
     {

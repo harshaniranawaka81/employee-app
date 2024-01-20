@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using EmployeeApi.Contracts.Repository;
-using EmployeeApi.Entities.Models;
+using EmployeeApp.Contracts.Repository;
+using EmployeeApp.Entities.Models;
 using Moq;
 
-namespace EmployeeApi.Tests.MockObjects
+namespace EmployeeApp.Tests.MockObjects
 {
     public static class MockIEmployeeRepository
     {

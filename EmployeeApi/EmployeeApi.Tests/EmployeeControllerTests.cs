@@ -1,17 +1,17 @@
 using AutoMapper;
-using EmployeeApi.Business.Mappers;
-using EmployeeApi.Business.Services;
-using EmployeeApi.Contracts.Repository;
-using EmployeeApi.Controllers;
-using EmployeeApi.Entities.Models;
-using EmployeeApi.Entities.ViewModels;
-using EmployeeApi.Repository;
-using EmployeeApi.Tests.MockObjects;
+using EmployeeApp.Business.Mappers;
+using EmployeeApp.Business.Services;
+using EmployeeApp.Contracts.Repository;
+using EmployeeApp.Controllers;
+using EmployeeApp.Entities.Models;
+using EmployeeApp.Entities.ViewModels;
+using EmployeeApp.Repository;
+using EmployeeApp.Tests.MockObjects;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Moq;
 
-namespace EmployeeApi.Tests
+namespace EmployeeApp.Tests
 {
     public class EmployeeControllerTests
     {

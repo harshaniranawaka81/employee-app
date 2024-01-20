@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EmployeeApi.Contracts.Repository
+namespace EmployeeApp.Contracts.Repository
 {
     public interface IRepositoryWrapper
     {

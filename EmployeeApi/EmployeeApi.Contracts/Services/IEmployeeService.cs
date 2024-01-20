@@ -4,10 +4,10 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
-using EmployeeApi.Entities.Models;
-using EmployeeApi.Entities.ViewModels;
+using EmployeeApp.Entities.Models;
+using EmployeeApp.Entities.ViewModels;
 
-namespace EmployeeApi.Contracts.Services
+namespace EmployeeApp.Contracts.Services
 {
     public interface IEmployeeService
     {

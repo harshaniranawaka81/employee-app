@@ -4,7 +4,7 @@
 
 #pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
 
-namespace EmployeeApi.Migrations
+namespace EmployeeApp.Migrations
 {
     /// <inheritdoc />
     public partial class InitEmployeeDb : Migration

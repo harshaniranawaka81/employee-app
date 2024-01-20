@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using EEmployeeApi.Entities.ViewModels;
 
-namespace EmployeeApi.Controllers
+namespace EmployeeApp.Controllers
 {
 	public class HomeController : Controller
 	{

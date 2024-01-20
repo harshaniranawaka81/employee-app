@@ -14,9 +14,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EmployeeApi.Contracts\EmployeeApi.Contracts.csproj" />
-    <ProjectReference Include="..\EmployeeApi.Entities\EmployeeApi.Entities.csproj" />
-    <ProjectReference Include="..\EmployeeApi.Repository\EmployeeApi.Repository.csproj" />
+    <ProjectReference Include="..\EmployeeApi.Contracts\EmployeeApp.Contracts.csproj" />
+    <ProjectReference Include="..\EmployeeApi.Entities\EmployeeApp.Entities.csproj" />
+    <ProjectReference Include="..\EmployeeApi.Repository\EmployeeApp.Repository.csproj" />
   </ItemGroup>
 
 </Project>

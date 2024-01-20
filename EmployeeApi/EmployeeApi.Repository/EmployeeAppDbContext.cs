@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using EmployeeApi.Entities.Models;
+using EmployeeApp.Entities.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace EmployeeApi
+namespace EmployeeApp
 {
-    public class EmployeeApiDbContext : DbContext
+    public class EmployeeAppDbContext : DbContext
     {
-        public EmployeeApiDbContext (DbContextOptions<EmployeeApiDbContext> options)
+        public EmployeeAppDbContext (DbContextOptions<EmployeeAppDbContext> options)
             : base(options)
         {
         }

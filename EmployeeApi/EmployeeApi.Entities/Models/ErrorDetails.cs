@@ -5,7 +5,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EmployeeApi.Entities.Models
+namespace EmployeeApp.Entities.Models
 {
     public class ErrorDetails 
     {

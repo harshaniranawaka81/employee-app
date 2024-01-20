@@ -1,6 +1,6 @@
-﻿using EmployeeApi.Business.Middleware;
+﻿using EmployeeApp.Business.Middleware;
 
-namespace EmployeeApi.Extensions
+namespace EmployeeApp.Extensions
 {
     public static class MiddlewareExtensions
     {

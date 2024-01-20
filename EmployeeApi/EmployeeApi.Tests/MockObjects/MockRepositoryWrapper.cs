@@ -1,14 +1,14 @@
 ﻿using AutoMapper;
-using EmployeeApi.Contracts.Repository;
+using EmployeeApp.Contracts.Repository;
 using Moq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using EmployeeApi.Business.Mappers;
+using EmployeeApp.Business.Mappers;
 
-namespace EmployeeApi.Tests.MockObjects
+namespace EmployeeApp.Tests.MockObjects
 {
     public static class MockRepositoryWrapper
     {

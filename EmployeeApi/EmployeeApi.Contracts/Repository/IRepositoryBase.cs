@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EmployeeApi.Contracts.Repository
+namespace EmployeeApp.Contracts.Repository
 {
     public interface IRepositoryBase<T>
     {

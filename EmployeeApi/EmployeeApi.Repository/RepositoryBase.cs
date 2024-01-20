@@ -1,13 +1,13 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
-using EmployeeApi.Contracts.Repository;
+using EmployeeApp.Contracts.Repository;
 
-namespace EmployeeApi.Repository
+namespace EmployeeApp.Repository
 {
     public abstract class RepositoryBase<T> : IRepositoryBase<T> where T : class
     {
-        protected EmployeeApiDbContext RepositoryContext { get; set; }
-        public RepositoryBase(EmployeeApiDbContext repositoryContext)
+        protected EmployeeAppDbContext RepositoryContext { get; set; }
+        public RepositoryBase(EmployeeAppDbContext repositoryContext)
         {
             RepositoryContext = repositoryContext;
         }

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using EmployeeApi.Entities.Models;
+using EmployeeApp.Entities.Models;
 
-namespace EmployeeApi.Contracts.Repository
+namespace EmployeeApp.Contracts.Repository
 {
     public interface IEmployeeRepository : IRepositoryBase<Employee>
     {

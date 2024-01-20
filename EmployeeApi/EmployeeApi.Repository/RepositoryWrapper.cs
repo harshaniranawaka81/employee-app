@@ -1,10 +1,10 @@
-﻿using EmployeeApi.Contracts.Repository;
+﻿using EmployeeApp.Contracts.Repository;
 
-namespace EmployeeApi.Repository
+namespace EmployeeApp.Repository
 {
     public class RepositoryWrapper : IRepositoryWrapper
     {
-        private readonly EmployeeApiDbContext _repoContext;
+        private readonly EmployeeAppDbContext _repoContext;
         private IEmployeeRepository? _employeeRepo;
 
         public IEmployeeRepository Employee
@@ -20,7 +20,7 @@ namespace EmployeeApi.Repository
             }
         }
 
-        public RepositoryWrapper(EmployeeApiDbContext repositoryContext)
+        public RepositoryWrapper(EmployeeAppDbContext repositoryContext)
         {
             _repoContext = repositoryContext;
         }

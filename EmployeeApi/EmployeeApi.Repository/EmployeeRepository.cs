@@ -1,14 +1,14 @@
-﻿using EmployeeApi.Contracts.Repository;
-using EmployeeApi.Entities.Models;
+﻿using EmployeeApp.Contracts.Repository;
+using EmployeeApp.Entities.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace EmployeeApi.Repository
+namespace EmployeeApp.Repository
 {
     public class EmployeeRepository : RepositoryBase<Employee>, IEmployeeRepository
     {
-        private readonly EmployeeApiDbContext repositoryContext;
+        private readonly EmployeeAppDbContext repositoryContext;
 
-        public EmployeeRepository(EmployeeApiDbContext repositoryContext)
+        public EmployeeRepository(EmployeeAppDbContext repositoryContext)
             : base(repositoryContext)
         {
             this.repositoryContext = repositoryContext;

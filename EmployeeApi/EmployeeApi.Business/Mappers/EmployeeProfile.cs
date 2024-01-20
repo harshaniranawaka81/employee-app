@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AutoMapper;
-using EmployeeApi.Entities.Models;
-using EmployeeApi.Entities.ViewModels;
+using EmployeeApp.Entities.Models;
+using EmployeeApp.Entities.ViewModels;
 
-namespace EmployeeApi.Business.Mappers
+namespace EmployeeApp.Business.Mappers
 {
     public class EmployeeProfile : Profile
     {

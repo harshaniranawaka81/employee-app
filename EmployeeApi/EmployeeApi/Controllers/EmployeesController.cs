@@ -2,17 +2,17 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using EmployeeApi.Contracts.Services;
+using EmployeeApp.Contracts.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using AutoMapper;
-using EmployeeApi.Entities.Models;
-using EmployeeApi.Entities.ViewModels;
+using EmployeeApp.Entities.Models;
+using EmployeeApp.Entities.ViewModels;
 using System.Net;
-using EmployeeApi.Business.FilterAttributes;
+using EmployeeApp.Business.FilterAttributes;
 
-namespace EmployeeApi.Controllers
+namespace EmployeeApp.Controllers
 {
     public class EmployeesController : Controller
     {

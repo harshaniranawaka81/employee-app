@@ -1,11 +1,11 @@
 ﻿using System.Net;
 using AutoMapper;
-using EmployeeApi.Contracts.Repository;
-using EmployeeApi.Contracts.Services;
-using EmployeeApi.Entities.Models;
-using EmployeeApi.Entities.ViewModels;
+using EmployeeApp.Contracts.Repository;
+using EmployeeApp.Contracts.Services;
+using EmployeeApp.Entities.Models;
+using EmployeeApp.Entities.ViewModels;
 
-namespace EmployeeApi.Business.Services
+namespace EmployeeApp.Business.Services
 {
     public class EmployeeService : IEmployeeService
     {

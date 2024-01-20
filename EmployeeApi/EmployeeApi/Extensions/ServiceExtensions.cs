@@ -1,15 +1,15 @@
-﻿using EmployeeApi.Business.Services;
-using EmployeeApi.Contracts.Repository;
-using EmployeeApi.Contracts.Services;
-using EmployeeApi.Entities.Models;
-using EmployeeApi.Repository;
+﻿using EmployeeApp.Business.Services;
+using EmployeeApp.Contracts.Repository;
+using EmployeeApp.Contracts.Services;
+using EmployeeApp.Entities.Models;
+using EmployeeApp.Repository;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
 using Serilog.Events;
 using Serilog.Formatting.Json;
 
-namespace EmployeeApi.Extensions
+namespace EmployeeApp.Extensions
 {
     public static class ServiceExtensions
     {
@@ -37,9 +37,9 @@ namespace EmployeeApi.Extensions
         public static void ConfigureDb(this IServiceCollection services, IConfiguration config)
         {
             var connectionString = config["ConnectionStrings:DefaultConnection"];
-            services.AddDbContext<EmployeeApiDbContext>(
+            services.AddDbContext<EmployeeAppDbContext>(
                 options => options.UseSqlServer(connectionString, 
-                    b => b.MigrationsAssembly("EmployeeApi")));
+                    b => b.MigrationsAssembly("EmployeeApp")));
         }
 
         /// <summary>

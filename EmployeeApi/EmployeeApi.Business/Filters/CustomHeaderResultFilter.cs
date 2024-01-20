@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 
-namespace EmployeeApi.Business.Filters
+namespace EmployeeApp.Business.Filters
 {
     public class CustomHeaderResultFilter : IAsyncResultFilter
     {

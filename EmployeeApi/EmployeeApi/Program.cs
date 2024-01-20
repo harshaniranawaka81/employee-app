@@ -1,7 +1,7 @@
-﻿using EmployeeApi.Business.Filters;
+﻿using EmployeeApp.Business.Filters;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using EmployeeApi.Extensions;
+using EmployeeApp.Extensions;
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
