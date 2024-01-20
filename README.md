@@ -1,7 +1,7 @@
-# employee-api
-This is an ASP .NET Core Web API CRUD application and uses a local SQL Server instance to save information
+# employee-apP
+This is an ASP .NET Core MVC CRUD application and uses a local SQL Server instance to save information
 
-ASP .NET Core Web API (.NET 6),
+ASP .NET Core MVC (.NET 6),
 C#,
 Entity Framework Core,
 Repository Pattern,
